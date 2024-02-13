@@ -3,16 +3,14 @@ const CONFIG = {
   profile: {
     name: "STARTUP_SEOUL",
     image: "/Removebg Group.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "community",
+    role: "도전 또 도전",
     bio: "We are startup community",
     email: "newempire.biz@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    instagram: "new_empire7",
   },
   projects: [
     {
-      name: `단톡방`,
+      name: `커뮤니티 단톡방`,
       href: "https://open.kakao.com/o/gOLfMFTc",
     },
   ],
@@ -23,8 +21,8 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://startupseoul.vercel.app",
+  since: 2019, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
