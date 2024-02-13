@@ -53,7 +53,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo:"newempire7/morethan-log",
       "issue-term": "og:title",
