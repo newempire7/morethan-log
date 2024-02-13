@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `단톡방`,
+      href: "https://open.kakao.com/o/gOLfMFTc",
     },
   ],
   // blog setting (required)
