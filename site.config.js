@@ -6,6 +6,8 @@ const CONFIG = {
     role: "도전 또 도전",
     bio: "We are startup community",
     email: "newempire.biz@gmail.com",
+    linkedin: "",
+    github: "",
     instagram: "new_empire7",
   },
   projects: [
