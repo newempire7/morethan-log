@@ -15,11 +15,6 @@ const CONFIG = {
       name: "커뮤니티 단톡방",
       href: "https://open.kakao.com/o/gOLfMFTc",
     },
-    
-    {
-      name: "선정된 업체 list",
-      href: "",
-    },
   ],
   // blog setting (required)
   blog: {
