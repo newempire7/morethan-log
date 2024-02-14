@@ -16,7 +16,7 @@ const CONFIG = {
       href: "https://open.kakao.com/o/gOLfMFTc",
     },
     {
-      name: "선정된 업체 list",
+      name: "선정된 업체",
       href: "https://startupseoul.vercel.app",
     },
   ],
