@@ -8,7 +8,7 @@ const CONFIG = {
     email: "newempire.biz@gmail.com",
     linkedin: "",
     github: "",
-    instagram: "new_empire7",
+    instagram: "",
   },
   projects: [
     {
@@ -18,18 +18,18 @@ const CONFIG = {
     
     {
       name: "선정된 업체 list",
-      href: "https://open.kakao.com/o/gOLfMFTc",
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
     title: "😊STARTUP_SEOUL😊",
-    description: "welcome to startup_seoul!",
+    description: "스타트업서울에 오신 것을 환영합니다",
   },
 
   // CONFIG configration (required)
   link: "https://startupseoul.vercel.app",
-  since: 2019, // If leave this empty, current year will be used.
+  since: 2021, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
