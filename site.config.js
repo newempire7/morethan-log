@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "STARTUP_SEOUL",
+    name: "북치기박치기",
     image: "/New Empire7 Logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "독서시스템을 만들어갑니다.",
     bio: "We are book community",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: "북치기박치기 단톡방",
-      href: "https://open.kakao.com/o/gOLfMFTc",
+      href: "https://open.kakao.com/o/gV7RGJFg",
     },
   ],
   // blog setting (required)
