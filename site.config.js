@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: "커뮤니티 단톡방",
+      name: "북치기박치기 단톡방",
       href: "https://open.kakao.com/o/gOLfMFTc",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "😊STARTUP_SEOUL😊",
-    description: "스타트업서울에 오신 것을 환영합니다",
+    title: "😊북치기박치기😊",
+    description: "독서모임 북치기박치기에 오신 것을 환영합니다",
   },
 
   // CONFIG configration (required)
