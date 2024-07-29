@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "STARTUP_SEOUL",
-    image: "/Removebg Group.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "도전 또 도전",
-    bio: "We are startup community",
+    image: "/New Empire7 Logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "독서시스템을 만들어갑니다.",
+    bio: "We are book community",
     email: "newempire.biz@gmail.com",
     linkedin: "",
     github: "",
@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://startupseoul.vercel.app",
+  link: "https://bookchigibakchigi.vercel.app",
   since: 2021, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
