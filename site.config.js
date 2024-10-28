@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "북치기박치기",
     image: "/New Empire7 Logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "독서시스템을 만들어갑니다.",
+    role: "부자가 되는 시스템을 알아봅시다.",
     bio: "We are book community",
     email: "newempire.biz@gmail.com",
     linkedin: "",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: "북치기박치기 단톡방",
-      href: "https://open.kakao.com/o/gV7RGJFg",
+      name: "북치기박치기 소모임방",
+      href: "https://somoim.friendscube.com/g/7468fc88-86e9-11ef-9964-0a7b4bb892f51",
     },
   ],
   // blog setting (required)
   blog: {
     title: "😊북치기박치기😊",
-    description: "독서모임 북치기박치기에 오신 것을 환영합니다",
+    description: "북치기박치기에 오신 것을 환영합니다",
   },
 
   // CONFIG configration (required)
